@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FridgeSmart/static/css/main.84d19728.css",
+    "main.js": "/FridgeSmart/static/js/main.f6945aee.js",
+    "static/media/background.jpg": "/FridgeSmart/static/media/background.37e17c9fb7e74e3a192b.jpg",
+    "static/media/uploadbackground.png": "/FridgeSmart/static/media/uploadbackground.4ce5044ad10631284ac3.png",
+    "static/media/robot.png": "/FridgeSmart/static/media/robot.641116968eaf8b599152.png",
+    "static/media/fridge-open.png": "/FridgeSmart/static/media/fridge-open.4b85a2e1a80b5762a387.png",
+    "static/media/fridge-closed.png": "/FridgeSmart/static/media/fridge-closed.58b8db5bba4643c97282.png",
+    "static/media/fs.png": "/FridgeSmart/static/media/fs.943ebc43af48ad0ed23b.png",
+    "static/media/plate.png": "/FridgeSmart/static/media/plate.e30fa0ae66d55f8055d3.png",
+    "index.html": "/FridgeSmart/index.html",
+    "main.84d19728.css.map": "/FridgeSmart/static/css/main.84d19728.css.map",
+    "main.f6945aee.js.map": "/FridgeSmart/static/js/main.f6945aee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84d19728.css",
+    "static/js/main.f6945aee.js"
+  ]
+}
