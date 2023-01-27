@@ -14,6 +14,7 @@ However, if the functionality of the ***GET RECIPES*** is not working, you may n
 
 ---
 # Devpost
+<img width="1417" alt="Screen Shot 2023-01-26 at 8 47 05 PM" src="https://user-images.githubusercontent.com/88297063/214992416-ee336afd-6a3c-418a-8270-ee8c4fa3202b.png">
 
 See our [here](https://devpost.com/software/fridgesmart)!
 
