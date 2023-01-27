@@ -7,7 +7,7 @@ Fridgesmart is an AI-powered web app that helps user figure out how to use up th
 https://user-images.githubusercontent.com/88297063/214989371-0398a01b-a2fe-49f4-bcef-cea602b01a51.mp4
 
 ---
-How to use our site!
+# How to use our site!
 Go to stanleyylin.github.io/FridgeSmart/ 
 
 However, if the functionality of the ***GET RECIPES*** is not working, you may need to download this repository and npm start in the appropriate file directory!
