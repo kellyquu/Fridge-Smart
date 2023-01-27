@@ -8,6 +8,13 @@ https://user-images.githubusercontent.com/88297063/214989371-0398a01b-a2fe-49f4-
 
 ---
 # How to use our site!
-Go to stanleyylin.github.io/FridgeSmart/ 
+Click [here](stanleyylin.github.io/FridgeSmart/)!
 
 However, if the functionality of the ***GET RECIPES*** is not working, you may need to download this repository and npm start in the appropriate file directory!
+
+---
+# Devpost
+
+See our [here](https://devpost.com/software/fridgesmart)!
+
+---
